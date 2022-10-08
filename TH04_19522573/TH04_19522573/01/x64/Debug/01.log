@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\IT002.L26 OOP\Thuc hanh\TH04_19522573\01\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  NhanVien.cpp
+  NVSanXuat.cpp
+  NVVanPhong.cpp
+  QuanLy.cpp
+  Generating Code...
+  01.vcxproj -> D:\IT002.L26 OOP\Thuc hanh\TH04_19522573\x64\Debug\01.exe
